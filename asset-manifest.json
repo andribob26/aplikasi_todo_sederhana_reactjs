@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aplikasi_todo_sederhana_reactjs/static/css/main.fbe8dfbb.css",
+    "main.js": "/aplikasi_todo_sederhana_reactjs/static/js/main.e5575304.js",
+    "static/js/787.ff2b23f8.chunk.js": "/aplikasi_todo_sederhana_reactjs/static/js/787.ff2b23f8.chunk.js",
+    "index.html": "/aplikasi_todo_sederhana_reactjs/index.html",
+    "main.fbe8dfbb.css.map": "/aplikasi_todo_sederhana_reactjs/static/css/main.fbe8dfbb.css.map",
+    "main.e5575304.js.map": "/aplikasi_todo_sederhana_reactjs/static/js/main.e5575304.js.map",
+    "787.ff2b23f8.chunk.js.map": "/aplikasi_todo_sederhana_reactjs/static/js/787.ff2b23f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbe8dfbb.css",
+    "static/js/main.e5575304.js"
+  ]
+}
